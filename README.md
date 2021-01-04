@@ -2,4 +2,4 @@
 
 **Blog** : https://dilrong.blog.me/
 
-💻 I’m currently working on momguide at infogreenn
+💻 I’m currently working on myself.
