@@ -7,4 +7,4 @@
 
 ![Git Follwers](https://img.shields.io/github/followers/dilrong.svg?style=social&label=Follow&maxAge=2592000)
 
-💻 I’m currently working on SellerNote.
+💻 I’m currently working on Com2us
